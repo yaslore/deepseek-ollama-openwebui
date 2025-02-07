@@ -46,6 +46,12 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 $env:DATA_DIR="C:\DeepSeekGuide\open-webui\data"; uvx --python 3.11 open-webui@latest serve --port 3060
 ```
 
+**For Linux/MacOS:**
+```sh
+DATA_DIR=~/.open-webui uvx --python 3.11 open-webui@latest serve --port 3060
+```
+
+
 ### Run OpenWebUI
 ```powershell
 $env:DATA_DIR="C:\DeepSeekGuide\open-webui\data"; uvx --python 3.11 open-webui@v0.5.10 serve --port 3060
