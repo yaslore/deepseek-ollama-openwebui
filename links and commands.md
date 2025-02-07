@@ -8,6 +8,7 @@ Download Ollama from the official website:
 ## Step 2 - Choose a DeepSeek version
 
 Select a DeepSeek AI version based on your needs. For coding purposes, **DeepSeek Coder v2** is recommended.
+If you wonder the latest Reasoning model, here is the R1 link  [Ollama DeepSeek R1 Options](https://ollama.com/library/deepseek-r1)
 
 ## Step 3 - Install DeepSeek AI
 
