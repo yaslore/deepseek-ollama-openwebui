@@ -71,6 +71,8 @@ Then, use the run command again:
 ```powershell
 $env:DATA_DIR="C:\DeepSeekGuide\open-webui\data"; uvx --python 3.11 open-webui@v0.5.10 serve --port 3060
 ```
+Here pick the appropriate file for you OS: **[Download the repo](https://github.com/yaslore/deepseek-ollama-openwebui/tree/main)**
+
 
 Now, open **[http://localhost:3060/](http://localhost:3060/)** in your browser.
 
